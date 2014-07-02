@@ -3,7 +3,7 @@
 This is my first attempt to build FizzBuzz in Clojure. I'm sure there are much more sophisticated ways of building the application but I thought this would be a good start.
 ## Usage
 
-Once you clone the repo and you have Leiningen installed you should be able to cd into the directory and run ```bash lein run```
+Once you clone the repo and you have Leiningen installed you should be able to cd into the directory and run ``bash lein run```
 
 ## License
 
